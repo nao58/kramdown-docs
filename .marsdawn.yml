@@ -1,0 +1,8 @@
+key: "kramdown"
+lang: "en"
+title: "kramdown Documentation"
+version: "0.0.1"
+link_defs:
+  "PHP Markdown Extra": ["http://michelf.com/projects/php-markdown/extra/", "PHP Markdown Extra"]
+  "Maruku": ["http://maruku.rubyforge.org/", "Maruku"]
+  "Pandoc": ["http://johnmacfarlane.net/pandoc/", "Pandoc"]
